@@ -1,4 +1,4 @@
-# Retail Sales Performance Analysis (Excel)
+# Superstore Sales Analysis (Excel Dashboard Project)
 
 This project analyzes a retail dataset using Microsoft Excel to uncover sales trends and build an interactive dashboard.
 
